@@ -1,6 +1,6 @@
 = dol-api
 
-Description goes here.
+Ruby client for the Department of Labor (DOL) API (http://developer.dol.gov)
 
 == Contributing to dol-api
  
